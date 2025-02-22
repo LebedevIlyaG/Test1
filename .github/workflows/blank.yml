@@ -40,3 +40,6 @@ jobs:
           make
           ls 
           pwd
+          cd Birch
+          ls
+          ./BirchApplication
