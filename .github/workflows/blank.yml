@@ -38,8 +38,11 @@ jobs:
           cd build
           cmake ..
           make
+          echo make complete
           ls 
           pwd
+          echo cd Birch
           cd Birch
           ls
+          pwd
           ./BirchApplication
