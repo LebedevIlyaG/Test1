@@ -38,4 +38,4 @@ jobs:
           make
           echo make complete
           ./Birch/BirchApplication
-          ./test/BirchApplication
+          ./test/BirchTest
